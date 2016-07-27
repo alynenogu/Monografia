@@ -1,0 +1,15 @@
+@CHARSET "UTF-8";
+
+table,td,th{
+	border: 2px solid green;
+}
+   table
+      {
+        font-family:"Trebuchet MS", Arial, Helvetica, sans-serif;
+        width:100%;
+        border-collapse:collapse;
+      }
+        th {
+        background-color: #ABFFB0;
+        color: #125900;
+      }
